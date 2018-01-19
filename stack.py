@@ -13,6 +13,7 @@ class Stack:
     def push(self, a):
         self.l.append(a)
 ccccc
+bbbbb
 
 stack = Stack()
 array = [1, 2, 3, 4, 5, 6]
