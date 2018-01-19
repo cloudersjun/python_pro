@@ -1,5 +1,6 @@
 # coding:utf-8
 aaaa
+cccc
 class Stack:
     l = list()
 
