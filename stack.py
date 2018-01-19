@@ -1,5 +1,4 @@
 # coding:utf-8
-aaaa
 class Stack:
     l = list()
 
